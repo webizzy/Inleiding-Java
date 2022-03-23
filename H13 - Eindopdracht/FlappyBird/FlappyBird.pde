@@ -1,4 +1,4 @@
-PImage Background, Floor, Bird, topPipe, bottomPipe, Lose, Zero, One, Two, Three, Four, Five, Six, Seven, Eight, Nine;
+PImage Background, Floor, Bird, topPipe, bottomPipe, Lose;
 int BackgroundX, BackgroundY, FloorX, FloorY, BirdX, BirdY, ZW, ZWS, LoseX, LoseY;
 int GameState, Score;
 int[] pipeX, pipeY;
